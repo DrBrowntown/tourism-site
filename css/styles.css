@@ -8,7 +8,7 @@ div#banner {
 	position: fixed;
 	top: 0;
 	left: 0;
-	background-color: #cc6600;
+	background-color: #8e1923;
 }
 
 div#banner img, div#spacer img {
@@ -64,7 +64,7 @@ div#navbar ul li a {
 } 
 
 li.changeBackground {
-	background-color: #cc0000;
+	background-color: black;
 }
 
 li.changeBackground:hover {
@@ -94,12 +94,12 @@ p, ul {
 div#sidebar p {
 	font-family: Tahoma, Geneva, sans-serif;
 	font-size: 1em;
-	color: #333333;
+	color: #8e1923;
 }
 
 div#sidebar h3 {
 	font-family: Georgia, Times, serif;
-	color: #cc6600;
+	color: #8e1923;
 	margin-bottom: -4%;
 }
 
